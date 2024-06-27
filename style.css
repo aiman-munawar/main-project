@@ -713,3 +713,148 @@ button i{
     margin-top: 1vw;
     margin-left: 4vw;
 }
+#main #page9{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+#page9 h1{
+    padding-left: 35vw;
+    padding-top: 2vw;
+    font-family: nueue;
+}
+#page9 p{
+    padding-left:4vw ;
+    padding-top: 1vw;
+    font-family: garet;
+    text-align: center;
+}
+#page9 input{
+    width: 40vw;
+    height: 4vw;
+    margin-left: 4vw ;
+    margin-top: 2vw;
+    border: 0;
+    background-color: rgb(245, 242, 242);
+}
+#page9 #message{
+    width:84.6vw ;
+    height: 15vw; 
+    background-color: rgb(245, 242, 242);
+}
+#page9 input[type=Submit]{
+    width: 15vw;
+    margin-left: 40vw;
+    color: black;
+    border: 0.2vw solid black;
+    background-color: white;
+}
+#main #page10{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    position: relative;
+}
+#page10 #nav10{
+    width: 100%;
+    height: 25%;
+    background-color: white;
+    display: flex;
+    gap: 27vw;
+}
+#nav10 h1{
+    font-family: nueue;
+    padding-left: 5vw;
+    padding-top: 3vw;
+}
+#nav10 button{
+     height: 5vw;
+     width: 15vw;
+     border: 0.2vw solid black;
+     margin-top:3vw ;
+     background-color: white;
+}
+#page10 #content1{
+    width: 30%;
+    height: 40%;
+    background-color: black;
+    position: absolute;
+    left: 10vw;
+    top: 15vw;
+}
+#content1 #logo2{
+    width: 20%;
+    height: 20%;
+    background-color: black;
+    border-top: 0.2vw solid white; ;
+    border-bottom: 0.2vw solid white;
+    border-left:0.2vw solid white ;
+    margin: 2vw 3vw;
+}
+#logo2 h5{
+    font-family: garet;
+    padding-left: 1.7vw;
+    padding-top:0.3vw ;
+    line-height: 1.2vw;
+    color: white;
+}
+#content1 p{
+    font-family: garet;
+    padding-left: 2vw;
+    line-height: 1.5vw;
+    color: white;
+}
+#page10 #content2{
+    width: 20% ;
+    height: 40%;
+    background-color: black;
+    position: absolute;
+    left:45vw ;
+    top:15vw ;
+}
+#content2  h4{
+    font-family: nueue;
+    padding-top: 2vw;
+    padding-left: 6vw;
+    color: white;
+}
+#content2 h5{
+    font-family: garet;
+    padding-left: 6.2vw;
+    color: white;
+}
+#page10 #content3{
+    width: 20%;
+    height: 40%;
+    background-color: black;
+    position: absolute;
+    left: 70vw;
+    top: 15vw;
+}
+#content3  h4{
+    font-family: nueue;
+    padding-top: 2vw;
+    padding-left: 6vw;
+    color: white;
+}
+#content3 p{
+    font-family: garet;
+    padding-top: 1vw;
+    color: white;
+}
+#page10 #footer{
+    width: 81%;
+    height: 0.6%;
+    background-color: white;
+    position: absolute;
+    top: 36vw;
+    left: 10vw;
+    display: flex;
+    gap: 36vw;
+}
+#footer h5{
+    font-family: garet;
+    padding-top: 1vw;
+    font-size: 1vw;
+    color: white;
+}
